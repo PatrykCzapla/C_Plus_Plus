@@ -1,2 +1,1 @@
-# C_Plus_Plus
-tasks at MiNI
+C++ - tasks from laboratory at MiNI faculty of Warsaw University of Technology (not all tasks are complete)
